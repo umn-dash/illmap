@@ -9,7 +9,7 @@ Project Collaborators:
 		Kevin Dyke (kevindyke@umn.edu),
 		Meghan Lafferty (mlaffert@umn.edu),
 		Amy Neeser (nees0017@umn.edu),
-		Emily Riha (emilymr@umn.edu),
+		Emily Riha (emilymr@umn.edu), and
 		Justin Schell (schel115@umn.edu).
 		
 Project presented at 2014 Digital Library Federation Forum in Atlanta, GA (October 27, 2014) by Amy Neeser and Justin Schell.

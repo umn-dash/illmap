@@ -1,10 +1,11 @@
 # illmap
-Description: This script provides a template describing how to make an animated map in D3.js
-that shows interlibrary loan transactions into and out of a university library. The project originated as part of [DASH] (http://z.umn.edu/dash "DASH") (Digital Arts Sciences + Humanities) at the University of Minnesota Libraries. 
+These scripts provide a template describing how to make an animated map in D3.js that shows interlibrary loan transactions into and out of a university library. One script is for automatic geocoding of institutions, the other for the design of the map itself.
+
+The project originated as part of [DASH] (http://z.umn.edu/dash "DASH") (Digital Arts Sciences + Humanities) at the University of Minnesota Libraries. 
 
 An [example] (http://z.umn.edu/illmap "example") with deidentified and geolocated University of Minnesota Libraries interlibrary loan data. 
 
-This script written by Steven Braun (sbraun@umn.edu), Informatics/Data Services Specialist, University of Minnesota Libraries.
+Script writtens by Steven Braun (sbraun@umn.edu), Informatics/Data Services Specialist, University of Minnesota Libraries and Kevin Dyke (kevindyke@umn.edu), Spatial Data Analayst, University of Minnesota Libraries. 
 
 Project Collaborators:
 		Steven Braun (sbraun@umn.edu),

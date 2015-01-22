@@ -3,7 +3,7 @@ Description: This script provides a template describing how to make an animated 
 that shows interlibrary loan transactions into and out of a university library. The project originated as part of [DASH] (http://z.umn.edu/dash "DASH") (Digital Arts Sciences + Humanities) at the University of Minnesota Libraries. 
 
 Origin:
-	This script written by Steven Braun (sbraun@umn.edu)
+	This script written by Steven Braun (sbraun@umn.edu).
 	Project Collaborators:
 		Steven Braun (sbraun@umn.edu),
 		Kevin Dyke (kevindyke@umn.edu),

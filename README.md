@@ -15,8 +15,6 @@ Project Collaborators:
 		Emily Riha (emilymr@umn.edu), and
 		Justin Schell (schel115@umn.edu).
 		
-Project presented at 2014 Digital Library Federation Forum in Atlanta, GA (October 27, 2014) by Amy Neeser and Justin Schell.
-		
-See our poster on this project: http://conservancy.umn.edu/handle/11299/167646
+Project presented at 2014 Digital Library Federation Forum in Atlanta, GA (October 27, 2014) by Amy Neeser and Justin Schell. See our [poster] (http://conservancy.umn.edu/handle/11299/167646 "poster") for this project.
 	
 Script cleaned for sharing 12/1/2014

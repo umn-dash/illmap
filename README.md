@@ -5,7 +5,7 @@ The project originated as part of [DASH] (http://z.umn.edu/dash "DASH") (Digital
 
 An [example] (http://z.umn.edu/illmap "example") with deidentified and geolocated University of Minnesota Libraries interlibrary loan data. 
 
-Script writtens by Steven Braun (sbraun@umn.edu), Informatics/Data Services Specialist, University of Minnesota Libraries and Kevin Dyke (kevindyke@umn.edu), Spatial Data Analayst, University of Minnesota Libraries. 
+Scripts written by Steven Braun (sbraun@umn.edu), Informatics/Data Services Specialist, University of Minnesota Libraries and Kevin Dyke (kevindyke@umn.edu), Spatial Data Analayst, University of Minnesota Libraries. 
 
 Project Collaborators:
 		Steven Braun (sbraun@umn.edu),

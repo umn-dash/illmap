@@ -231,6 +231,12 @@ Origin:
 
     $con = mysqli_connect($dbhost,$dbuser,$dbpw,$dbname);
 	
+    /* EDIT STEVEN BRAUN 2015-08-10 10:56 AM CST
+    In newer versions of PHP, json_encode() may fail on improperly encoded UTF text queried from MySQL.
+    To correct for this, add mysqli_char_set() to specify that text read through MySQL should be read as UTF-8 (or otherwise)
+    */
+    mysqli_set_charset($con,"utf8");
+
 	// Create an array of statuses that indicate when requests open and close; these are statuses
 	// that come from the data itself and will be used to generate the visualization    
     $statusArray = array("initiateStatuses" => array("Submitted by Customer","Submitted via Lending Web","Imported from OCLC","Imported from DOCLINE"),"completeStatuses" => array("Checked Out to Customer","Request Finished","Delivered to Web","Item Shipped"));
